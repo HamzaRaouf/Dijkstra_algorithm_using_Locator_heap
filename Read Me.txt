@@ -1,0 +1,6 @@
+Read me before runing Project
+- after unzip folder open it into vs code or any other IDE 
+- Run main.cpp file which load graph from given file "graph_large1.txt" and show the output of shortest between start node and end node or vertax,
+start vertax ,end vertax, edges and weight are give in txt file
+- if you want to see shortest path of other graphs given in other text files , just comment current file and un comment other file names which you want to load
+- you can compare out put of shortest path in output of code and its relevant output file
